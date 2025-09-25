@@ -1,0 +1,43 @@
+
+The 26 Standard Letters
+==========================================================================================================
+| Letter | Name in German | Pronunciation (approximate)                                                  |
+| ------ | -------------- | ---------------------------------------------------------------------------- |
+| A      | ah             | like “ah” in *father*                                                        |
+| B      | beh            | like English “bay”                                                           |
+| C      | tseh           | “tsay” (before e, i, ä, ö, ü = “ts” sound; before a, o, u = “k”)             |
+| D      | deh            | like English “day”                                                           |
+| E      | eh             | like “ay” in *say*, but shorter/tenser                                       |
+| F      | eff            | like English “f”                                                             |
+| G      | geh            | hard “g” like *go* (never soft like *giant*)                                 |
+| H      | hah            | like English “h”                                                             |
+| I      | ih             | like “ee” in *see*, but shorter/tenser                                       |
+| J      | jot            | like English “y” in *yes*                                                    |
+| K      | kah            | like English “k”                                                             |
+| L      | ell            | like English “l”                                                             |
+| M      | emm            | like English “m”                                                             |
+| N      | enn            | like English “n”                                                             |
+| O      | oh             | like “o” in *go* (but without the final glide)                               |
+| P      | peh            | like English “pay”                                                           |
+| Q      | kuh            | “koo” (always followed by “u”, pronounced like “kv”)                         |
+| R      | err            | guttural, uvular trill or fricative in throat (different from English “r”)   |
+| S      | ess            | like English “s” (before vowels, often “z” sound, e.g. *Sonne* = zon-ne)     |
+| T      | teh            | like English “t”                                                             |
+| U      | uh             | like “oo” in *food*                                                          |
+| V      | fau            | pronounced like “f” (e.g. *Vater* = father)                                  |
+| W      | weh            | pronounced like English “v”                                                  |
+| X      | iks            | like English “x”                                                             |
+| Y      | ypsilon        | usually like German “ü” or English “i” (in loanwords often like “y” in *my*) |
+| Z      | tsett          | pronounced “ts” (like in *cats*)                                             |
+==========================================================================================================
+
+
+Special German Characters
+=================================================================================================
+| Letter | Name                | Pronunciation                                                  |
+| ------ | ------------------- | -------------------------------------------------------------- |
+| Ä      | ä (Umlaut-A)        | like “e” in *bed*, but longer/tenser                           |
+| Ö      | ö (Umlaut-O)        | no English equivalent; like “i” in *sir* (British) but rounded |
+| Ü      | ü (Umlaut-U)        | no English equivalent; like “ee” in *see* with rounded lips    |
+| ß      | Eszett / scharfes S | like double “s” (e.g. *Straße* = strasse = street)             |
+=================================================================================================
