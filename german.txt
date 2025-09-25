@@ -41,3 +41,85 @@ Special German Characters
 | Ü      | ü (Umlaut-U)        | no English equivalent; like “ee” in *see* with rounded lips    |
 | ß      | Eszett / scharfes S | like double “s” (e.g. *Straße* = strasse = street)             |
 =================================================================================================
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+=================================================================================================
+Counting
+=================================================================================================
+Here’s a clear guide to counting in German with spelling, pronunciation, and notes on patterns:
+
+=================================================================================================
+0–20
+=================================================================================================
+Number	German	Pronunciation (approx.)
+0	null	nool
+1	eins	ains
+2	zwei	tsvai
+3	drei	drai
+4	vier	feer
+5	fünf	foonf (with rounded “ü”)
+6	sechs	zeks
+7	sieben	ZEE-ben
+8	acht	ahkt (ch = rough throat sound)
+9	neun	noyn
+10	zehn	tsayn
+11	elf	elf
+12	zwölf	tsvolf (rounded “ö”)
+13	dreizehn	DRAI-tsayn
+14	vierzehn	FEER-tsayn
+15	fünfzehn	FOONF-tsayn
+16	sechzehn	ZEHK-tsayn (drop the “s”)
+17	siebzehn	ZEEP-tsayn (shortened from sieben)
+18	achtzehn	AHKT-tsayn
+19	neunzehn	NOYN-tsayn
+20	zwanzig	TSVAN-tsig (“ig” = “ich” sound)
+==================================================================================================
+
+21–29
+==================================================================================================
+German flips the order:
+
+21 = einundzwanzig (“one and twenty”)
+
+22 = zweiundzwanzig (“two and twenty”)
+
+…
+
+29 = neunundzwanzig
+
+So the structure is [unit] + und + [tens].
+==================================================================================================
+
+Tens
+==================================================================================================
+Number	German	Pronunciation
+30	dreißig	DRAI-sikh (ß = “ss”)
+40	vierzig	FEER-tsikh
+50	fünfzig	FOONF-tsikh
+60	sechzig	ZEHK-tsikh
+70	siebzig	ZEEP-tsikh
+80	achtzig	AHKT-tsikh
+90	neunzig	NOYN-tsikh
+100	(ein)hundert	(Ain)-HOON-dert
+==================================================================================================
+
+
+Hundreds & Thousands
+==================================================================================================
+101 = hunderteins (hundred-one)
+
+235 = zweihundertfünfunddreißig (two hundred five-and-thirty)
+
+1,000 = eintausend
+
+2025 = zweitausendfünfundzwanzig
+==================================================================================================
+
+
+✅ Pattern to remember:
+
+Units come before tens (e.g. 47 = siebenundvierzig → “seven and forty”).
+
+Tens/hundreds/thousands behave consistently once you learn the roots.
+==================================================================================================
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+==================================================================================================
